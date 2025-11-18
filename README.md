@@ -67,6 +67,14 @@ Images referenced in the demo:
 - Create a simple booking modal or real action on the `Book` button
 - Implement a responsive menu for mobile and interactive toggling of nav (hamburger icon)
 
+## Updates in this version
+
+- Accessibility improvements (skip link, improved alt text, ARIA attributes for controls)
+- Semantic markup updates (use of `article`, `figure`, `figcaption` and clearer page structure)
+- CSS refactor: variables, improved layout, responsive grid, keyboard focus states, and reduced motion support
+- Performance tweaks: `loading="lazy"` for images and `decoding="async"` attributes
+- Small JS: a mobile nav toggle and a demo booking button handler
+
 ## Contributing
 
 Contributions are welcome! For small static projects like this, a good first step is to fork the repo and open a PR with:
